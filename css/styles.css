@@ -118,6 +118,8 @@ background-color: #000000;
 display:block;
 width: auto;
 height: auto;
+opacity: 0.75;
+filter: alpha(opacity=75);
 margin-top: 50px;
 margin-bottom: 50px;
 }
